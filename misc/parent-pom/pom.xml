@@ -43,7 +43,7 @@
         <itextpdf.version>5.5.13.3</itextpdf.version>
 
         <!-- https://github.com/codecentric/spring-boot-admin -->
-        <spring-boot-admin.version>2.7.7</spring-boot-admin.version>
+        <spring-boot-admin.version>3.5.7</spring-boot-admin.version>
 
         <logstash-logback-encoder.version>6.3</logstash-logback-encoder.version>
 
