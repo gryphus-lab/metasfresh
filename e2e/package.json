@@ -50,8 +50,8 @@
     "mocha-multi-reporters": "1.5.1",
     "prettier": "2.4.1",
     "react-hot-loader": "4.13.0",
-    "webpack": "5.61.0",
-    "webpack-dev-server": "4.4.0",
+    "webpack": "5.104.1",
+    "webpack-dev-server": "5.2.1",
     "webpack-git-hash": "^1.0.2"
   },
   "devDependenciesComments": {
@@ -60,7 +60,7 @@
     "mochaComment2": "mocha 6.0.0 and 6.0.1 don't work; thx to https://github.com/cypress-io/cypress/issues/3537"
   },
   "dependencies": {
-    "axios": "0.24.0",
+    "axios": "0.30.3",
     "cypress-localstorage-commands": "1.6.0",
     "cypress-skip-and-only-ui": "^1.2.12",
     "immutable": "^4.0.0",
