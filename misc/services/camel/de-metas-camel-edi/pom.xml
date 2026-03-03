@@ -16,10 +16,10 @@
     <properties>
         <java.version>17</java.version>
         <spring-boot.version>2.7.11</spring-boot.version>
-        <camel.version>3.14.7</camel.version>
+        <camel.version>4.0.0</camel.version>
         <guava.version>30.1.1-jre</guava.version>
         <smooks-cartridge.version>2.0.0-M3</smooks-cartridge.version>
-        <jackson.version>2.13.1</jackson.version>
+        <jackson.version>2.18.6</jackson.version>
         <lombok.version>1.18.24</lombok.version>
         <org.apache.poi.version>4.1.2</org.apache.poi.version>
         <jaxb.inhouse.v2.packageName>de.metas.edi.esb.jaxb.metasfreshinhousev2</jaxb.inhouse.v2.packageName>
